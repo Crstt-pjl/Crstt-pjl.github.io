@@ -1,1 +1,1 @@
-que B.O
+Olá, sou o Cristhian, um programador iniciante que se interessa por desafios.
